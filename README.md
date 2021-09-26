@@ -21,9 +21,9 @@
 [Click me](https://discord.com/invite/fh4AJJdcZb)  
 
 ## 🏛️I'm in...
-- Diverse Techs Circle
+- <img src="https://avatars.githubusercontent.com/u/85460447?s=64&v=4" style="width: 20px;" /> Diverse Techs Circle
 - thinking
-- ZS Studios
+- <img src="https://avatars.githubusercontent.com/u/89446264?s=64&v=4" style="width: 20px;" />ZS Studios
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=1234Yosuke&count_private=true&show_icons=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1234Yosuke&layout=compact" />
