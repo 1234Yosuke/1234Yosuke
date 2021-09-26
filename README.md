@@ -20,6 +20,11 @@
 ### Discord🥽
 [Click me](https://discord.com/invite/fh4AJJdcZb)  
 
+## 🏛️I'm in...
+- Diverse Techs Circle
+- thinking
+- ZS Studios
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=1234Yosuke&count_private=true&show_icons=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1234Yosuke&layout=compact" />
 <!---
