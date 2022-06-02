@@ -1,29 +1,23 @@
 <h1 align="center">Welcome.</h1>
 <p align="center">Hi! My name is ZIP. Thank you for visiting my profile!</p>
 
-## ♥️ I like...
-- 🐍Python
-- 🔌M5Stack
-- 📗Qt
-- 📰HTML&CSS
+<h2 align="center">Please See This Website To Know About Me More.</h2>
+<h2 align="center">https://1234yosuke.github.io</h2>
 
-## 👀I'm intersted in...
-- 🕸️JavaScript
-- ⌨️TypeScript
-- :electron:Electron
-
-## ❓Who am I?
-### Website🌏
+## Who am I?
+### Website
 [Click me](https://1234yosuke.github.io)  
-### Twitter🐦
+### Twitter
 [@ZIP_Muryobochi](https://twitter.com/ZIP_Muryobochi)  
-### Discord🥽
+### Discord
 [Click me](https://discord.com/invite/fh4AJJdcZb)  
 
-## 🏛️I'm in...
-- <img src="https://avatars.githubusercontent.com/u/85460447?s=64&v=4" style="width: 20px;" /> Diverse Techs Circle
+## I'm in...
+- Diverse Techs Circle
 - thinking
-- <img src="https://avatars.githubusercontent.com/u/89446264?s=64&v=4" style="width: 20px;" />ZS Studios
+- Quaestio
+
+## Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=1234Yosuke&count_private=true&show_icons=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1234Yosuke&layout=compact" />
